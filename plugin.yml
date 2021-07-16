@@ -1,0 +1,9 @@
+name : zmujubank
+main : com.zmujubank.zmujubank.main
+version : 0.1
+api-version: 1.15
+author : captain0potlid
+commands :
+  w :
+  des :
+  
